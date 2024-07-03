@@ -1,0 +1,149 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	background-color: white;
+	color: black;
+	padding: 20px;
+	text-align: right;
+    position: relative;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: black;
+	text-decoration: none;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 20px;
+}
+img{
+    margin-right: 70px auto;
+   
+    top: 35px;
+    left: 55%;
+position: absolute;
+}
+h1{
+font-size: xx-large;
+position: absolute;
+left: 20%;
+top: 10%;
+}
+.p1{
+	top:25% ;
+	left:20% ;
+	position: absolute;
+
+}
+.b1{
+	background-color:black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+width: 300px;
+top: 37%;
+left: 20%;
+position: absolute;
+
+}
+.s1{
+	content:"\2606";
+	top:44%;
+	left: 20%;
+	position:absolute;
+}
+b{
+	color: gold;
+}
+.i2{
+	position: absolute;
+	top: 58%;
+	left: 20%;
+
+}
+h2{
+	
+	position: absolute;
+	top: 57%;
+	left: 54%;
+
+}
+.p2{
+	top:74% ;
+	left: 54%;
+	position: absolute;
+	font-size: smaller;
+}
+.b2{
+	background-color:orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+width: 300px;
+top: 88%;
+left: 54%;
+position: absolute;
+
+}
+.i3{
+	position: absolute;
+	top: 100%;
+	left: 54%;
+
+}
+.h3{
+	position: absolute;
+	top: 100%;
+	left: 20%;
+}
+.p3{
+	position: absolute;
+	top: 113%;
+	left: 20%;
+	font-size: smaller;
+}
+.i4{
+	position: absolute;
+	top: 145%;
+	left: 20%;
+}
+.h4{
+	position: absolute;
+	top: 145%;
+	left: 54%;
+}
+.p5{
+position: absolute;
+	top: 158%;
+	left: 54%;
+}
+.ull{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	top: 123%;
+	left: 20%;
+	position: absolute;
+}
